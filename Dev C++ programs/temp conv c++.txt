@@ -1,0 +1,19 @@
+#include <iostream>
+#include <cmath>
+int main ()
+{
+   using namespace std;
+   double celsius;
+   int faht;
+cout << "Enter the temperature in Celsius and I will convert it to Fahrenheit." << endl;
+cin >> celsius;
+faht =( (celsius * 1.8) + 32);
+cout << "Your temperature in Fahrenheit is " << faht << endl;
+cout << " " << endl; 
+cout << "Otherwise:" << endl;
+\cout << celsius << " *C " << "= " << faht << "*F" <<endl;
+  
+system ("pause");
+return 0;
+}
+

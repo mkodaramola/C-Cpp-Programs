@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1565959861 source:c:\users\daramola oluwafemi m\documents\programming\c++\codeblockc++program\gui\main.cpp
+	<windows.h>
+	<iostream>
+	<graphics.h>
+

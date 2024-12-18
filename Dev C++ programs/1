@@ -1,0 +1,16 @@
+#include <iostream>
+#include <string>
+	using namespace std;
+int main(){
+
+int n = 23456;
+int z = sizeof(n);
+string wd = "International"
+cout << wd.replace("inter", "Exter") << endl;
+
+ 
+cout << z << endl;
+	
+return 0;
+system ("pause");	
+}

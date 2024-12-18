@@ -1,0 +1,6 @@
+Candidates' Examination Number = 65432
+ 
+Candidate got 1 of 6
+ 
+Candidate did not get the following numbers 1, 0, 3, 4, 5 and 6
+

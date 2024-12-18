@@ -1,0 +1,9 @@
+Candidate's Name: fenm qwerty
+ 
+Candidate's Examination Number: 1234556
+ 
+Candidate's Class: 122
+ 
+Candidate missed number => 1-2-3-4-5-6-7-8-9-10-11-0-13-0-15-16-17-0-19-20
+ 
+Candidate got 3 of 20
